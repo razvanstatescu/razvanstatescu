@@ -1,4 +1,4 @@
-### Hi there, I'm Razvan - aka The Dev Guy 👋
+### Hi there, I'm Razvan - aka The Dev Guy 👋🏻
 
 I am a Freelance Full-Stack developer with experience building websites and scalable web applications. I specialize in JavaScript and PHP, with professional experience working with Angular and NodeJS. I also have a strong knowledge of HapiJS and Codeigniter, Docker, SQL/NoSQL databases, Microservices and a lot of other technologies and APIs.
 <br/>
@@ -11,7 +11,7 @@ Starting from May 2020 I'm also creating programming related content on YouTube 
 [<img align="left" alt="Razvan Statescu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="The Dev Guy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
+<br/><br/>
 
 ### 🛠 Languages and Tools:
 
@@ -46,8 +46,8 @@ This is the Podcast where I bring different people from the industry to chat abo
 [👉🏻 Check the podcast right now 👈🏻][podcast]
 
 
-[website]: https://statescu.net
-[youtube]: https://youtube.com/TheDevGuy
-[instagram]: https://instagram.com/the.dev.guy
-[linkedin]: https://www.linkedin.com/in/razvanstatescu/
-[podcast]: https://anchor.fm/thedevguy
+[website]: (https://statescu.net){:target="_blank"}
+[youtube]: (https://youtube.com/TheDevGuy){:target="_blank"}
+[instagram]: (https://instagram.com/the.dev.guy){:target="_blank"}
+[linkedin]: (https://www.linkedin.com/in/razvanstatescu/){:target="_blank"}
+[podcast]: (https://anchor.fm/thedevguy){:target="_blank"}
