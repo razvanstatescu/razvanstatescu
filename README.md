@@ -36,11 +36,6 @@ Starting from May 2020 I'm also creating programming related content on YouTube 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Build a WEATHER ALERT App with NodeJS (OpenWeather API, Email Notifications)](https://www.youtube.com/watch?v=8-DfYf8iEvk)
-- [Being a Developer is more than a job (Deno, Mandarine.TS, Open-Source) | The Dev Chat Podcast #3](https://www.youtube.com/watch?v=wKmdrf0lmqE)
-- [Let's build a price alert web scraper with NodeJS (using Puppeteer and Sendgrid)](https://www.youtube.com/watch?v=VED8-QgOQ2U)
-- [All about Freelancing in 2020 | The Dev Chat Podcast #2](https://www.youtube.com/watch?v=OHAOUDy180Y)
-- [Does a developer need to go to school ? | The Dev Chat Podcast #1](https://www.youtube.com/watch?v=f5UErn7IT_I)
 <!-- YOUTUBE:END -->
 
 ---
@@ -51,8 +46,8 @@ This is the Podcast where I bring different people from the industry to chat abo
 [👉🏻 Check the podcast right now 👈🏻][podcast]
 
 
-[website]: (https://statescu.net){:target="_blank"}
-[youtube]: (https://youtube.com/TheDevGuy){:target="_blank"}
-[instagram]: (https://instagram.com/the.dev.guy){:target="_blank"}
-[linkedin]: (https://www.linkedin.com/in/razvanstatescu/){:target="_blank"}
-[podcast]: (https://anchor.fm/thedevguy){:target="_blank"}
+[website]: https://statescu.net
+[youtube]: https://youtube.com/TheDevGuy
+[instagram]: https://instagram.com/the.dev.guy
+[linkedin]: https://www.linkedin.com/in/razvanstatescu/
+[podcast]: https://anchor.fm/thedevguy
