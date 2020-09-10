@@ -36,11 +36,11 @@ Starting from May 2020 I'm also creating programming related content on YouTube 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Javascript Obfuscation (Ascunde codul Javascript) | În Limba Română 🇷🇴](https://www.youtube.com/watch?v=g5OyqsDZ4nY)
 - [Let's build a Color Scheme Generator using Javascript](https://www.youtube.com/watch?v=EK0mFjDAr_c)
 - [Linked List | Data Strucures in Javascript](https://www.youtube.com/watch?v=4JTc3DQbbRo)
 - [Stack | Data Strucures in Javascript](https://www.youtube.com/watch?v=DZKH_BGElfA)
 - [Build a WEATHER ALERT App with NodeJS (OpenWeather API, Email Notifications)](https://www.youtube.com/watch?v=8-DfYf8iEvk)
-- [Being a Developer is more than a job (Deno, Mandarine.TS, Open-Source) | The Dev Chat Podcast #3](https://www.youtube.com/watch?v=wKmdrf0lmqE)
 <!-- YOUTUBE:END -->
 
 ---
