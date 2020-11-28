@@ -36,11 +36,11 @@ Starting from May 2020 I'm also creating programming related content on YouTube 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Brunch - Feedback for websites. Made simple | usebrunch.com](https://www.youtube.com/watch?v=Qlu8kJEH7Jk)
 - [TailwindCSS - Instalare și Utilizare (Framework CSS)](https://www.youtube.com/watch?v=PWymLpb8jRo)
 - [Build și Deploy folosind Docker Hub (Build automat cu Github, docker-compose)](https://www.youtube.com/watch?v=Q4idJGtSRqU)
 - [Cum să rulezi o aplicație Node.JS folosind Docker (Construirea unei imagini Docker)](https://www.youtube.com/watch?v=PhBdgb6QSV4)
 - [Javascript Obfuscation (Ascunde codul Javascript) | În Limba Română 🇷🇴](https://www.youtube.com/watch?v=g5OyqsDZ4nY)
+- [Let's build a Color Scheme Generator using Javascript](https://www.youtube.com/watch?v=EK0mFjDAr_c)
 <!-- YOUTUBE:END -->
 
 ---
