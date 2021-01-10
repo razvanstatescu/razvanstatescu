@@ -53,6 +53,6 @@ This is the Podcast where I bring different people from the industry to chat abo
 
 [website]: https://statescu.net
 [youtube]: https://youtube.com/TheDevGuy
-[instagram]: https://www.instagram.com/devrazvan/
+[instagram]: https://www.instagram.com/the.dev.guy
 [linkedin]: https://www.linkedin.com/in/razvanstatescu/
 [podcast]: https://anchor.fm/thedevguy
